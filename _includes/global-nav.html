@@ -1,0 +1,21 @@
+<nav class="navbar navbar-fixed-top">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#mobile-navigation" aria-expanded="false" aria-controls="#mobile-navigation">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar top-bar"></span>
+        <span class="icon-bar middle-bar"></span>
+        <span class="icon-bar bottom-bar"></span>
+      </button>
+	{% unless page.hide_auth_buttons %}
+	  <a href="https://circleci.com/signup/" class="mobile-nav signup" data-analytics-action="signup-clicked" data-analytics-location="nav">Sign Up</a>
+	{% endunless %}
+	</div>
+    <div class="navbar-collapse collapse" id="mobile-navigation" aria-expanded="false">
+      <ul class="nav navbar-nav">
+        <li class="{% if page.nav-hl == 'pricing' %}active{% endif %}"><a href="https://dynalist.io/pricing" class="menu-item">Pricing</a></li>
+        <li class="{% if page.nav-hl == 'pricing' %}active{% endif %}"><a href="http://blog.dynalist.io/" class="menu-item">Blog</a></li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container -->
+</nav>
