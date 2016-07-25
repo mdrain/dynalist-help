@@ -1,0 +1,23 @@
+- name: "Getting Started"
+  slug: getting-started
+  index: gettingstarted
+ 
+- name: "Frequently Asked Questions"
+  slug: build-images
+  index: build-images
+
+- name: "Sharing & Collaboration"
+  slug: languages
+  index: languages
+
+- name: "Subscription"
+  slug: mobile-platforms
+  index: mobile
+
+- name: "Mastering Dynalist"
+  slug: how-to
+  index: how-to
+
+- name: "My Account"
+  slug: troubleshooting
+  index: troubleshooting
