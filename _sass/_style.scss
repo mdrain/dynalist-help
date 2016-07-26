@@ -280,15 +280,7 @@ aside {
 
     &.current {
       position: relative;
-
-      &:before {
-        content: '*';
-        font-size: 22px;
-        position: absolute;
-        top: 2px;
-        left: -16px;
-        color: #c7254e;
-      }
+      color: #c7254e;
     }
   }
 }
