@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Dynalist Help
+title: "Dynalist Help"
 email: support@dynalist.io
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -15,7 +15,6 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/dynalist-help" # the subpath of your site, e.g. /blog
 url: "http://127.0.0.1:4000" # the base hostname & protocol for your site
 twitter_username: DynalistHQ
-github_username:  jekyll
 
 collections:
   articles:

@@ -1,6 +1,7 @@
-- title: Getting Started
+- title: How-tos
   articles:
-  - working-with-lists
+  - creating-lists
+  - list-types
   - formatting
   - moving-things-around
   - files

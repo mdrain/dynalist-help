@@ -6,16 +6,16 @@ layout: default
     <div class="grid">
 
       {% include contents_mobile.html %}
-
-      {% include contents.html %}
       
-      <div class="unit four-fifths">
+      <div class="unit three-fourths">
         <article>
           <h1>{{ page.title }}</h1>
           {{ content }}
           {% include section_nav.html %}
         </article>
       </div>
+
+      {% include contents.html %}
 
       <div class="clear"></div>
 
