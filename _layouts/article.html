@@ -1,24 +1,23 @@
-<!DOCTYPE html>
-<html>
-{% include head.html %}
-<body class="{% if page.path == "index.html" %}homepage{% endif %}">
-<div class="outer">
-	<div class="main-body">
-		{% include contents.html %}
-		<div class="article-container docs">
-			<form id="site-search" class="doc-search" action="">
-				<input type="text" autocomplete="off" placeholder="What can we help you find?" name="query" class="form-control" />
-				<ul id="search-results" class="list-unstyled dropdown-menu"></ul>
-			</form>
-			<article>
-				<h1>{{ page.title }}</h1>
-				{{ content }}
-				{% if page.collection == "articles" and page.layout == "article" %}
-				{% endif %}
-			</article>
-		</div><!-- .article-container -->
-	</div><!-- .main-body -->
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-</div><!-- .outter -->
-</body>
-</html>
+---
+layout: default
+---
+
+  <section class="docs">
+    <div class="grid">
+
+      {% include contents_mobile.html %}
+
+      <div class="unit four-fifths">
+        <article>
+          <h1>{{ page.title }}</h1>
+          {{ content }}
+          {% include section_nav.html %}
+        </article>
+      </div>
+
+      {% include contents.html %}
+
+      <div class="clear"></div>
+
+    </div>
+  </section>
