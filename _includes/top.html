@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="generator" content="Jekyll v{{ jekyll.version }}">
+ <title>{% if page.title %}{{ page.title | append:" - " | append:site.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <link rel="alternate" type="application/atom+xml" title="Recent commits to Jekyll’s master branch" href="{{ site.repository }}/commits/master.atom">
   <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:600|Merriweather:400,400i,700" rel="stylesheet">
   <link rel="stylesheet" href="/dynalist-help/css/main.css">
