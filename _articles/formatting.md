@@ -3,3 +3,53 @@ layout: article
 title: Formatting
 permalink: /formatting/
 ---
+
+You can use Markdown to format things in Dynalist. Markdown is rendered whenever you're not focusing on an item. When you focus on an item, the plain text source behind the Markdown is displayed for you to edit.
+
+Dynalist's Markdown syntax is identical to Markdown except that `*italic*` and `_italic_` doesn't work. Instead, `**bold**` and `__italic__` is used. The intention is to not surprise people who don't use Markdown, as it's common to have `*` or `_` surround text in normal sentences.
+
+#### Keyboard shortcuts
+
+Some syntaxes have associated keyboard shortcuts. If you have selected text, using the shortcut will add or remove Markdown syntax around the text, depending on whether it's already surrounded by Markdown syntax. If you're not selecting and text, using the shortcut will insert one side of the Markdown syntax for you (e.g. `**` for bold). You can use the shortcut again after you've finished writing what's inside the syntax.
+
+We know it takes some practice to remember these syntaxes, that's why we built a formatting cheatsheet right into the Dynalist web app. Press `Ctrl+?` and you will see it pop up.
+
+#### Bold
+
+You can make bold text `**like this**`. The associated keyboard shortcut is `Ctrl+B`.
+
+#### Italic
+
+You can make italic text `__like this__`. The associated keyboard shortcut is `Ctrl+I`.
+
+#### Inline code
+
+You can make inline code \``like this`\`. The associated keyboard shortcut is `Ctrl+`\`.
+
+> Note: the character used here is not a quote character, but rather a grave accent. It's also called a backtick. You can find it above your `Tab` key.
+
+#### Line-through
+
+You can make line-through text `~~like this~~`. There's no associated keyboard shortcut.
+
+#### Link
+
+You can make a link `[like this](www.dynalist.io)`. There's no associated keyboard shortcut.
+
+If you don't need the link to be named, pasting the URL is enough to make it clickable. No Markdown needed. 
+
+> Note: please include the protocol (e.g. `http://` or `https://`) in your links, otherwise they won't display as links. The intention is to not mistake normal text as links. If you paste links from the browser, it should be automatically included.
+
+#### Image link
+
+You can make an image link `![like this](example.com/kitten.jpg)`. There's no associated keyboard shortcut.
+
+The difference between image links and normals is that image links have an image icon to mark it, and hovering on an image link would open a preview of the linked image inside Dynalist.
+
+#### LaTeX
+
+You can write LaTeX equations `$$like this$$`. The associated keyboard shortcut is `Ctrl+L`.
+
+Dynalist uses KaTeX by Khan Academy to render LaTeX. It's faster than MathJAX but is still incomplete at this point. Their project is [open-source and hosted on GitHub](https://github.com/Khan/KaTeX). You're welcome to create an issue there if you feel like it's missing the functionalities you need.
+
+To see all TeX functions supported by KaTeX, please refer to [this list](https://github.com/Khan/KaTeX/wiki/Function-Support-in-KaTeX).
