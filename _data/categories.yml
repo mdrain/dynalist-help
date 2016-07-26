@@ -1,23 +1,35 @@
-- name: "Getting Started"
-  slug: getting-started
-  index: gettingstarted
+- title: Getting Started
+  articles:
+  - working-with-lists
+  - formatting
+  - moving-things-around
+  - files
+  - bookmarks
+  - search
+  - sharing
+  - mobile
+  - keyboard-shortcuts
  
-- name: "Frequently Asked Questions"
-  slug: build-images
-  index: build-images
+- title: Your Data
+  articles:
+  - privacy
+  - security
+  - export
+  - import
+ 
+- title: Account & Subscription
+  articles:
+  - account
+  - subscription
+  - pro-features
+  - referral
+ 
+- title: Views & Customization
+  articles:
+  - view-mode
+  - preferences
+  - views
+  - user-styles
 
-- name: "Sharing & Collaboration"
-  slug: languages
-  index: languages
 
-- name: "Subscription"
-  slug: mobile-platforms
-  index: mobile
 
-- name: "Mastering Dynalist"
-  slug: how-to
-  index: how-to
-
-- name: "My Account"
-  slug: troubleshooting
-  index: troubleshooting
