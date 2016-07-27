@@ -10,7 +10,7 @@ There are three types of lists in Dynalist:
 2. Checklists;
 3. Numbered lists.
 
-### Checklists
+## Checklists
 
 Checklist items have a checkbox in front of them, making it easy to check off. It also makes it more obvious that an item is a task rather than random information.
 
@@ -27,7 +27,7 @@ For checkbox items, simply click on the checkbox to check it off. The keyboard s
 Unchecking a checked items works the same way.
 
 
-### Numbered lists
+## Numbered lists
 
 Numbered list items have a number before it rather than a bullet point. Like in other word processors, the numbers are dynamically adjusted as you add and remove items.
 
