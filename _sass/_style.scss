@@ -374,7 +374,11 @@ article {
   }
 
   a {
-    color: #c7254e;
+    text-decoration: underline;
+    
+    &:hover {
+      color: #c7254e;
+    }
   }
 
 }
