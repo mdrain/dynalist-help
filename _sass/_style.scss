@@ -294,6 +294,8 @@ code {
   font: 14px/1.6em 'Source Code Pro', monospace;
   font-weight: 600;
   padding: 0 0.1em;
+  position: relative;
+  bottom: 1px;
 }
 
 @media (min-width: 768px) {
