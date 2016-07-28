@@ -10,7 +10,7 @@ First of all, check your spam folder. Our emails sometimes end up in spam folder
 
 If it's not in the spam folder and you haven't closed the sign up page, the success message has your email information in it. Double check your email — it's common to make a typo in the email.
 
-If nothing above works, [contact us](https://dynalist.io/feedback) for help.
+If nothing above works, [contact us]({{ site.feedback_url }}) for help.
 
 #### Forgot password
 
@@ -22,10 +22,10 @@ Click on the gear icon at the top right corner to open settings. Under the "Acco
 
 #### Change your email address
 
-There's no way to change your email address by yourself right now. [Shoot us a note](https://dynalist.io/feedback) and we'll do it for you.
+There's no way to change your email address by yourself right now. [Shoot us a note]({{ site.feedback_url }}) and we'll do it for you.
 
 #### Delete your account
 
 Like changing your email address, there's no way to do this yourself. You can delete all the content, which is pretty close to having you account deleted.
 
-If you really insist on deleting your account, [let us know](https://dynalist.io/feedback) and we'll do it for you.
+If you really insist on deleting your account, [let us know]({{ site.feedback_url }}) and we'll do it for you.

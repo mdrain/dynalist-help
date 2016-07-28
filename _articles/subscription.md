@@ -34,7 +34,7 @@ We don't handle your credit card informatin directly. We use Stripe for acceptin
 
 #### Can I get a group discount?
 
-If you're upgrading more than 10 accounts, please [get in touch](https://dynalist.io/feedback) and we can talk about it.
+If you're upgrading more than 10 accounts, please [get in touch]({{ site.feedback_url }}) and we can talk about it.
 
 #### Are there other discounts available?
 
