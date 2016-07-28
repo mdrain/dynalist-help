@@ -8,73 +8,82 @@ Below is a comprehensive list of keyboard shortcuts in Dynalist. You can also br
 
 #### Interface
 
-| Action        | Shortcut           |
-| ------------- |---------------|
-| Open help        | `Ctrl+?` |
-| Toggle file pane      | `Ctrl+Shift+F`      |
-| Toggle bookmark pane      | `Ctrl+Shift+B`      |
-| Toggle checked items      | `Alt+C`      |
-| Toggle notes     | `Alt+N`      |
-| Start new line      | `Ctrl+Shift+Enter`      |
-| Undo      | `Ctrl+Z`      |
-| Redo      | `Ctrl+Y`      |
-| Toggle spellchecking      | `Ctrl+Alt+S`      |
+| Action                         | Shortcut           |
+|--------------------------------|--------------------|
+| Open help                      | `Ctrl+?`           |
+| Exit search/file finder/search | `Esc`              |
+| Toggle file pane               | `Ctrl+Shift+F`     |
+| Toggle bookmark pane           | `Ctrl+Shift+B`     |
+| Toggle checked items           | `Alt+C`            |
+| Toggle notes                   | `Alt+N`            |
+| Start new line                 | `Ctrl+Shift+Enter` |
+| Undo                           | `Ctrl+Z`           |
+| Redo                           | `Ctrl+Y`           |
+| Toggle spellchecking           | `Ctrl+Alt+S`       |
+
 
 #### Editing
 
-| Action        | Shortcut           |
-| ------------- |---------------|
-| Indent        | `Tab` |
-| Unindent      | `Shift+Tab`      |
-| Delete item      | `Ctrl+Shift+Backspace`      |
-| Switch between item and note      | `Shift+Enter`      |
-| Mark as done      | `Ctrl+Enter`      |
-| Start new line      | `Ctrl+Shift+Enter`      |
-| Undo      | `Ctrl+Z`      |
-| Redo      | `Ctrl+Y`      |
-| Toggle spellchecking      | `Ctrl+Alt+S`      |
+| Action                       | Shortcut               |
+|------------------------------|------------------------|
+| Indent                       | `Tab`                  |
+| Unindent                     | `Shift+Tab`            |
+| Delete item                  | `Ctrl+Shift+Backspace` |
+| Switch between item and note | `Shift+Enter`          |
+| Mark as done                 | `Ctrl+Enter`           |
+| Start new line               | `Ctrl+Shift+Enter`     |
+| Undo                         | `Ctrl+Z`               |
+| Redo                         | `Ctrl+Y`               |
+| Toggle spellchecking         | `Ctrl+Alt+S`           |
+
 
 #### Modifying lists
 
-| Action        | Shortcut           |
-| ------------- |---------------|
-| Expand/collapse      | `Ctrl+.`      |
-| Expand/collapse all      | `Ctrl+Shift+.`      |
-| Toggle checklist      | `Ctrl+Alt+C`      |
-| Toggle numbered list      | `Ctrl+Alt+N`      |
+| Action               | Shortcut       |
+|----------------------|----------------|
+| Expand/collapse      | `Ctrl+.`       |
+| Expand/collapse all  | `Ctrl+Shift+.` |
+| Toggle checklist     | `Ctrl+Alt+C`   |
+| Toggle numbered list | `Ctrl+Alt+N`   |
+
 
 #### Selecting
 
-| Action        | Shortcut           |
-| ------------- |---------------|
-| Select this and previous item      | `Shift+Up`      |
-| Select this and next item      | `Shift+Down`      |
-| Select everything | `Ctrl+Shift+A` |
+| Action                        | Shortcut       |
+|-------------------------------|----------------|
+| Select this and previous item | `Shift+Up`     |
+| Select this and next item     | `Shift+Down`   |
+| Select everything             | `Ctrl+Shift+A` |
+
 
 #### Navigating & moving
 
-| Action        | Shortcut           |
-| ------------- |---------------|
-| Zoom in      | `Ctrl+]`      |
-| Zoom out      | `Ctrl+[`      |
-| Swap with previous      | `Ctrl+Up`      |
-| Swap with next      | `Ctrl+Down`      |
+| Action             | Shortcut    |
+|--------------------|-------------|
+| Zoom in            | `Ctrl+]`    |
+| Zoom out           | `Ctrl+[`    |
+| Swap with previous | `Ctrl+Up`   |
+| Swap with next     | `Ctrl+Down` |
+| Copy list          | `Ctrl+Drag` |
+
 
 #### Formatting
 
-| Action        | Shortcut           |
-| ------------- |---------------|
-| Bold      | `Ctrl+B`      |
-| Italic      | `Ctrl+I`      |
-| Code      | `Ctrl+Backtick`      |
-| LaTeX      | `Ctrl+L`      |
+| Action             | Shortcut         |
+|--------------------|------------------|
+| Bold               | `Ctrl+B`         |
+| Italic             | `Ctrl+I`         |
+| Code               | `Ctrl+Backtick`  |
+| LaTeX              | `Ctrl+L`         |
 | Make heading 1/2/3 | `Ctrl+Alt+1/2/3` |
-| Clear heading | `Ctrl+Alt+0` |
+| Clear heading      | `Ctrl+Alt+0`     |
+
 
 #### Search
 
-| Action        | Shortcut           |
-| ------------- |---------------|
-| Search within document      | `Ctrl+F`      |
-| Search everywhere (while in search bar)      | `Ctrl+Enter`      |
-| Open file finder      | `Ctrl+O`      |
+| Action                                  | Shortcut     |
+|-----------------------------------------|--------------|
+| Search within document                  | `Ctrl+F`     |
+| Search everywhere (while in search bar) | `Ctrl+Enter` |
+| Open file finder                        | `Ctrl+O`     |
+

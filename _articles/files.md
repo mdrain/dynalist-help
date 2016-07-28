@@ -12,6 +12,16 @@ In the file pane on the left, you can open the create file menu by right clickin
 
 To create a file inside a specific folder, right click on the folder to find the options to create file under it.
 
+#### Opening documents
+
+To open a document, simply click on its title. There's no need to double click it like in your file system, as that will start renaming the document.
+
+A faster way to open documents is to use the [file finder](../search/#find-files).
+
+#### Collapsing/expanding folders
+
+Folders can be collapsed if you don't need to see what's inside for now. Click on the little triangle arrow icon in front of each folder to collapse or expand it.
+
 #### Renaming files
 
 To rename a file, you can either double click on its title or right click on a file and select "Rename".
