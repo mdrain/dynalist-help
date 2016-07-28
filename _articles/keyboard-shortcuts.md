@@ -6,6 +6,8 @@ permalink: /keyboard-shortcuts/
 
 Below is a comprehensive list of keyboard shortcuts in Dynalist. You can also bring this up inside Dynalist with `Ctrl+?`.
 
+> Note: if you're on an Mac, you can use both `Cmd` and `Ctrl` in the place of `Ctrl` in these shortcuts.
+
 #### Interface
 
 | Action                         | Shortcut           |
