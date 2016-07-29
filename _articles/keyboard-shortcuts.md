@@ -89,3 +89,4 @@ Below is a comprehensive list of keyboard shortcuts in Dynalist. You can also br
 | Search everywhere (while in search bar) | `Ctrl+Enter` |
 | Open file finder                        | `Ctrl+O`     |
 
+### For non-English keyboard layouts

@@ -3,3 +3,91 @@ layout: article
 title: Preferences
 permalink: /preferences/
 ---
+
+You can see and change your preferences in the "Preferences" tab in Settings. To open Settings, click on the gear in the top right corner.
+
+There are two main types of preference: appearance and input.
+
+## Appearance preferences
+
+#### Theme
+
+Dynalist has two themes right now: default and dark. If your room is dark, using dark theme is easier on your eyes.
+
+This setting defaults to Default (yeah right).
+
+#### Font size
+
+Choose from Small, Medium, and Large. If it's still readable to you, you can set it to smaller to display more text on the same screen space.
+
+This setting defaults to Medium.
+
+#### Font
+
+There are 8 built-in fonts in Dynalist right now. For serif font (think Times New Roman), go for Lora. For a monospace font for code, choose Consolas.
+
+This setting defaults to Whitney.
+
+#### Eastern-asian font
+
+If you write in Chinese, Japanese, or Korean, you can make use of this option to make your characters look better. This font will only be used on non-English text, so don't worry about English looking ugly in the eastern-asian font.
+
+There are two options for each language, with one being serif and the other being sans serif.
+
+This setting defaults to Microsoft Yehei.
+
+#### Font for dyslexia
+
+If you have dyslexia, try out this option by choosing Open Dyslexic. It's designed to make reading eaiser for people with dyslexia.
+
+If you like how it looks, you can [download this font for free](http://opendyslexic.org/).
+
+This setting defaults to None.
+
+#### List density
+
+You can control how much margin you'd like between two items. Compact is the tightest setting, and Comfortable is the loosest setting.
+
+This setting defaults to Cozy.
+
+#### Tag background color
+
+To make tags stand out a little, turn on this setting. A light blue background (in default theme) or a dark grey background (in dark theme) will be applied to all tags.
+
+This setting is turned off by default.
+
+#### Document border
+
+Turn it off if you don't like the light grey border around your document.
+
+This setting is turned on by default.
+
+#### Highlight current item
+
+Turn on this setting if you want to know which item you're editing right now. This can be hard as you have to look for the blinking caret. Turning on this setting will show a light background behind the current item, making it easy to find.
+
+This setting is turned off by default.
+
+#### Center align document
+
+When the document is center aligned, there are significant margins on the left and right side of the document. If you want to fit more text on the same screen space, you can turn it off. The possible drawback is that longer lines are usually harder to read.
+
+This setting is turned on by default.
+
+## Input
+
+#### Enable spell checker
+
+Turning this on will enable your browser's built-in spell checker. When a typo is spotted, a red squiggly line will show up underneath it.
+
+This settings is turned off by default, although we're strongly considering making it be on be default.
+
+#### Keyboard layout
+
+Because some languages have alternative keyboard layouts, it's impossible for people who use those layouts to use normal shortcuts. For example, the Clear Heading shortcut (`Ctrl+Alt+0`) will input "}" if you're using the Polish keyboard layout.
+
+Right now there are four keyboard layout settings (in no particular order): English (United States), French (France), Polish (Poland), and German (Germany). If you find things not working with your keyboard layout, [let us know]({{ site.feedback_url }})!
+
+To see what shortcuts are affected by choosing each layout, see [the keyboard shorcuts section](../keyboard-shortcuts/#for-non-english-keyboard-layouts).
+
+This setting defaults to English (United States).
