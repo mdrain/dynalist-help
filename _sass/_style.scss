@@ -279,8 +279,7 @@ aside {
     }
 
     &.current {
-      position: relative;
-      color: #c7254e;
+      color: darken(#c7254e, 8%);
     }
   }
 }
@@ -338,7 +337,7 @@ a {
   text-decoration: none;
   @include transition(all .25s);
 
-  &:hover { color: #555; }
+  &:hover { color: #c7254e; }
 }
 
 strong { font-weight: 700; }

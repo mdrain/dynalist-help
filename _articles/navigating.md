@@ -14,7 +14,7 @@ Switching to another bookmark works in the same way.
 
 #### Changing list zoom
 
-Zooming into a list will show what's inside that list only. The zoomed in list becomes the new "root list".
+Zooming into a list will show what's inside that list only. The zoomed in list becomes the new "root list". This is ideal if you want to focus on something for now.
 
 To zoom in, click on the magnifying glass icon that appear next to the hamburger menu when you mouseover an item. Or you can choose "Zoom in" in the item menu. The shortcut for this is `Ctrl+]`.
 

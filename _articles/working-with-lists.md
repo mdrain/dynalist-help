@@ -4,11 +4,9 @@ title: Working with lists
 permalink: /working-with-lists/
 ---
 
-
-
 #### Opening list menu
 
-To see a list of all applicable actions, use the item menu. When you mouseover an item, a hamburger icon will show up in front of it. Click on it to open the menu. Alternatively, you can right click on the bullet point to achieve the same thing.
+To see a list of all applicable actions, use the list menu. When you mouseover an item, a hamburger icon will show up in front of it. Click on it to open the menu. Alternatively, you can right click on the bullet point to do the same thing.
 
 #### Change multiple lists at once
 
@@ -18,17 +16,17 @@ You can drag to select multiple items just like how you can drag to select multi
 
 #### Moving lists
 
-To move a list, simply drag it by the bullet point and move it around. While dragging, you will see a grey line at the location it's going to be moved to after you release the mouse.
+To move a list, simply drag it by the bullet point and move it around. While dragging, you will see a grey line that indicates where the item will be dropped.
 
 #### Deleting lists
 
-The fastest way to delete a list is to use the shortcut `Ctrl+Shift+Enter`. If your right hand is on the mouse, this can be a little hard to press — use `Ctrl+X` instead.
+The fastest way to delete a list is to use `Ctrl+Shift+Backspace`. If your right hand is on the mouse, that can be a little hard to press — use `Ctrl+X` instead.
 
 Alternatively, you can choose "Delete" in the item menu.
 
 #### Adding notes
 
-Notes are extra, secondary information you can add to an item. You can jump between the main item and its note field with `Shift+Enter`.
+Notes are extra, secondary information you can add to an item. You can jump between the main item field and its note field with `Shift+Enter`.
 
 ## Copying & exporting
 
@@ -44,20 +42,24 @@ To export a list, open the item menu and choose "Export...". For more informatio
 
 #### Converting lists to checklists
 
-Please see ["Creating checklists"](../list-types/#creating-checklists).
+Please see "[Creating checklists](../list-types/#creating-checklists)".
 
 #### Converting lists to numbered lists
 
-Please see ["Creating numbered lists"](../list-types/#creating-numbered-lists).
+Please see "[Creating numbered lists](../list-types/#creating-numbered-lists)".
 
 #### Converting lists to standalone documents
 
 To convert a list to a document, simply drag it to the file pane on the left.
 
-> Known bug: dragging to the empty space at the bottom doesn't work right now — drop it among existing files instead.
+> Known bug: dragging items to the empty space at the bottom of the file pane doesn't work right now — drop it among existing files instead.
 
 ## Linking to other lists
 
 It's easy to link to other lists in Dynalist.
 
-Type `[[` to trigger the suggestion popup, and then you can type to search for the list you want to link to. After selecting a list with `Up`, `Down`, and `Enter`, the link markdown will be automatically inserted for you.
+Type `[[` to trigger the suggestion popup, and then you can type to search for the list you want to link to. After selecting a list, the link markdown will be automatically inserted for you.
+
+See below for a short video on how to use it.
+
+![](http://i.imgur.com/kKo09Aw.gif)

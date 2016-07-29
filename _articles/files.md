@@ -4,13 +4,13 @@ title: Document & folder
 permalink: /files/
 ---
 
-Document and folder are two types of files in Dynalist. You can think of each document as a "root" list that you can expand on. Folders can contain other files, making it useful when organizing your workspace.
+Document and folder are two types of files in Dynalist. You can think of each document as a "root" list that you can expand on. Folders can contain other files, making it useful for organizing your workspace.
 
 #### Creating files
 
 In the file pane on the left, you can open the create file menu by right clicking anywhere inside the pane or clicking on the "+" icon in the header bar of the icon. In the menu, you can choose to create a document or a folder. This way the new file in created in the **root** level in your Dynalist.
 
-To create a file inside a specific folder, right click on the folder to find the options to create file under it.
+To create a file inside a specific folder, right click on the folder to find the options to create a file under it.
 
 #### Opening documents
 

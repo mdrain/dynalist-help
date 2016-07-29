@@ -8,13 +8,11 @@ To get premium features and remove limitations, you upgrade to Dynalist Pro.
 
 #### Pricing
 
-Right now, Dynalist Pro costs $3.99 per month for annual subscriptions and $4.99 for monthly subscriptions. This is the price after the early bird discount, and we plan to remove the discount after we release mobile apps.
+Right now, Dynalist Pro costs $3.99 per month for annual subscriptions and $4.99 for monthly subscriptions. This is the price with the early bird discount, and we plan to remove the discount after we release mobile apps.
 
 #### How do I upgrade?
 
-You can upgrade [here](https://dynalist.io/pricing).
-
-> Note: you need to be logged in in order to upgrade your account.
+You can upgrade [here](https://dynalist.io/pricing). Please log in to your Dynalist account in order to upgrade.
 
 #### What do I get by upgrading?
 
