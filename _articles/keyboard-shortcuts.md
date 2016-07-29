@@ -89,4 +89,16 @@ Below is a comprehensive list of keyboard shortcuts in Dynalist. You can also br
 | Search everywhere (while in search bar) | `Ctrl+Enter` |
 | Open file finder                        | `Ctrl+O`     |
 
-### For non-English keyboard layouts
+## For non-English keyboard layouts
+
+#### French
+
+For the Polish keyboard layout, the shortcut to clear heading is `Shift+Alt+0` instead of `Ctrl+Alt+0`, and the shortcut to set heading 3 is `Shift+Alt+3` instead of `Ctrl+Alt+3`.
+
+#### Polish
+
+For the Polish keyboard layout, the shortcut to toggle checklist is `Alt+C` instead of `Ctrl+Alt+C`.
+
+### German
+
+For the German keyboard layout, the shortcut to zoom in is `Alt+Right` instead of `Ctrl+]`, and the shortcut to zoom out is `Alt+Left` instead of `Ctrl+[`.

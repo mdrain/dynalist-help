@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Using Dynalist on mobile
+title: Mobile
 permalink: /mobile/
 ---
 

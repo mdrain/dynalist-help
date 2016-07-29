@@ -16,6 +16,8 @@ Pro users can upload 1 GB of files that are each at most 50 MB in size every mon
 
 ![How to upload files](http://i.imgur.com/D2EI1EG.gif)
 
+You can also [change the permission for your uploaded files](../privacy/#how-can-see-the-files-i-uploaded).
+
 #### Automatic daily backup
 
 Pro users can link their Dropbox and Google Drive account, and every day a full backup will be sent to it. To link your Dropbox or Google Drive, open Settings and go to the "Dynalist Pro" tab.
