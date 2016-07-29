@@ -55,3 +55,9 @@ Please see ["Creating numbered lists"](../list-types/#creating-numbered-lists).
 To convert a list to a document, simply drag it to the file pane on the left.
 
 > Known bug: dragging to the empty space at the bottom doesn't work right now — drop it among existing files instead.
+
+## Linking to other lists
+
+It's easy to link to other lists in Dynalist.
+
+Type `[[` to trigger the suggestion popup, and then you can type to search for the list you want to link to. After selecting a list with `Up`, `Down`, and `Enter`, the link markdown will be automatically inserted for you.
