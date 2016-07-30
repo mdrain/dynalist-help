@@ -13,9 +13,9 @@ layout: article
       {% assign docs_found = docs_found | plus: 1 %}
       {% if docs_found < 4 %}
         {% if doc.short-title %}
-          <li class="{% if page.path contains doc.url %}active{% endif %}"><a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.short-title }}</a></li>
+          <li class="{% if page.path contains doc.url %}active{% endif %}"><a href="{{ site.url }}{{ doc.url }}">{{ doc.short-title }}</a></li>
         {% else %}
-          <li><a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a></li>
+          <li><a href="{{ site.url }}{{ doc.url }}">{{ doc.title }}</a></li>
         {% endif %}
       {% endif %}
     {% endif %}
@@ -23,7 +23,7 @@ layout: article
 
   {% if docs_found > 3 %}
     {% assign more = docs_found | minus: 3 %}
-    <li><em><a href="{{ site.baseurl }}/{{ category.index }}/">{{ more }} more</a></em></li>
+    <li><em><a href="{{ site.url }}/{{ category.index }}/">{{ more }} more</a></em></li>
   {% endif %}
   </ul>
 </div>
