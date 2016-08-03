@@ -28,7 +28,7 @@ We accept any major credit card such as Visa, MasterCard, and American Express. 
 
 #### Is my credit card information safe?
 
-We don't handle your credit card informatin directly. We use Stripe for accepting payment, which is trusted by thousands of companies like Twitter, Pinterest, and Shopify.
+We don't handle your credit card information directly. We use Stripe for accepting payment, which is trusted by thousands of companies like Twitter, Pinterest, and Shopify.
 
 #### Can I get a group discount?
 
