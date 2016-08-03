@@ -39,3 +39,5 @@ If you want to find all items that contains either `apple` or `pie`, search for 
 If you want to find all items that don't contain `apple`, search for `-apple`.
 
 You can combine these operators as you like.
+
+For date search, [learn more here](../date/#searching-for-dates).
