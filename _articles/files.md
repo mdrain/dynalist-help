@@ -30,7 +30,7 @@ To rename a file, you can either double click on its title or right click on a f
 
 To move a file, drag it to the new destination.
 
-> Note: it can be tricky to move a file into an empty folder. It's easy to end up moving the file below the empty folder. In that case, drag it upwards by a tiny bit should work.
+> Note: it can be tricky to move a file into an empty folder. It's easy to end up moving the file below the empty folder. In that case, dragging it upwards by a tiny bit should work.
 
 #### Deleting files
 
