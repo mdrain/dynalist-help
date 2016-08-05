@@ -1,9 +1,13 @@
 <div class="docs-nav-mobile unit whole show-on-mobiles">
   <select onchange="if (this.value) window.location.href=this.value">
-    <option value="">Navigate the docs…</option>
-    {% for section in site.data.docs %}
-    <optgroup label="{{ section.title }}">
-      {% include docs_option.html items=section.docs %}
+    <option value="">Navigate the articles…</option>
+    {% for category in site.data.categories %}
+    <optgroup label="{{ category.title }}">
+      {% for article_id in category.articles %}
+        {% assign article_url = article_id | prepend: '/' | append:'/' %}
+        {% assign article = site.articles | where: "url", article_url | first %}
+        <option value="{{ article_url }}">{{ article.title }}</option>
+      {% endfor %}
     </optgroup>
     {% endfor %}
   </select>

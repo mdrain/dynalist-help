@@ -82,7 +82,9 @@ nav {
 }
 
 .logo {
-  margin: 0 38px 20px 38px;
+  @media screen and (min-width: 568px) {
+    margin: 0 38px 20px 38px;
+  }
 
   h1 {
     font-size: 1em;
@@ -505,4 +507,8 @@ code.output {
   overflow: hidden;
   clip: rect(0, 0, 0, 0);
   border: 0;
+}
+
+.docs-nav-mobile {
+  text-align: center;
 }
