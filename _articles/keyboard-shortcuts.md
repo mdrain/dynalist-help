@@ -18,7 +18,6 @@ Below is a comprehensive list of keyboard shortcuts in Dynalist. You can also br
 | Toggle bookmark pane           | `Ctrl+Shift+B`     |
 | Toggle checked items           | `Alt+C`            |
 | Toggle notes                   | `Alt+N`            |
-| Start new line                 | `Ctrl+Shift+Enter` |
 | Toggle spellchecking           | `Ctrl+Alt+S`       |
 
 
