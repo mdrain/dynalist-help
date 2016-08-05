@@ -33,7 +33,6 @@ Below is a comprehensive list of keyboard shortcuts in Dynalist. You can also br
 | Start new line               | `Ctrl+Shift+Enter`     |
 | Undo                         | `Ctrl+Z`               |
 | Redo                         | `Ctrl+Y`               |
-| Toggle spellchecking         | `Ctrl+Alt+S`           |
 
 
 #### Modifying lists
