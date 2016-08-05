@@ -18,7 +18,7 @@ For more information, you can read [our privacy policy](https://dynalist.io/priv
 
 #### How can see the files I uploaded?
 
-By default, only you have access to them. Other people cannot see the files you upload even they somehow obtained the link to it.
+By default, only you have access to them. Other people cannot see the files you upload even if they somehow obtain the link to it.
 
 However, if you're collaborating with other people and you want your collaborators to be able to see your file attachments, you can change the permission. Open Settings, go to the Dynalist Pro tab, and check the "Allow others to access link" checkbox under the "Your uploads" section.
 

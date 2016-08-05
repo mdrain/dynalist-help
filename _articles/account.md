@@ -4,7 +4,7 @@ title: Your account
 permalink: /account/
 ---
 
-#### I can't receive my confirmation email!
+#### I can't receive the confirmation email!
 
 First of all, check your spam folder. Our emails sometimes end up in spam folders for unknown reasons, which is sad.
 
