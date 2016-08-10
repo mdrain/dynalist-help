@@ -89,7 +89,7 @@ Below is a comprehensive list of keyboard shortcuts in Dynalist. You can also br
 
 #### French
 
-For the Polish keyboard layout, the shortcut to clear heading is `Shift+Alt+0` instead of `Ctrl+Alt+0`, and the shortcut to set heading 3 is `Shift+Alt+3` instead of `Ctrl+Alt+3`.
+For the French keyboard layout, the shortcut to clear heading is `Shift+Alt+0` instead of `Ctrl+Alt+0`, and the shortcut to set heading 3 is `Shift+Alt+3` instead of `Ctrl+Alt+3`.
 
 #### Polish
 
