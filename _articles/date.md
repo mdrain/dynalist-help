@@ -24,13 +24,13 @@ To editing an existing date, simply click on it to trigger the date picker. The 
 
 #### Searching for dates
 
-To search for dates, use the `within:` search operator. Follow the `within:` operator with time range shorthands such as `24h`, `-2d`, `4w`, or `-3m`. `h`, `d`, `w`, and `m` stand for hour, day, week, and month, respectively. Positive numbers stand for the future whereas negative numbers stand for the past.
+To search for dates, use the `within:`, `since:`, and `until:` search operators. Follow the operator with time range shorthands such as `24h`, `-2d`, `4w`, or `-3m`. `h`, `d`, `w`, and `m` stand for hour, day, week, and month, respectively. Positive numbers stand for the future whereas negative numbers stand for the past.
 
 > Note: `24h` is not equivalent to `1d`. `d`, `w`, and `m` time ranges always end at end of the last day rather than the current time, whereas `24h` means preciously 24 hours from now.
 
 Two special values: for date results between now and end of today, use `within:0d`. For date results between start of today to end of today, use `within:today`.
 
-You can combine the `within:` operator by other keywords to further filter the results.
+You can combine these operators with other keywords to further filter the results.
 
 #### Bookmarking date searches
 
