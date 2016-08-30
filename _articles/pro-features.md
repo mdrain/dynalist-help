@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Dyanlist Pro features
+title: Dynalist Pro features
 permalink: /pro-features/
 ---
 

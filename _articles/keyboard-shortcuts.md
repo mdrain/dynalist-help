@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Keyboard shortucts
+title: Keyboard shortcuts
 permalink: /keyboard-shortcuts/
 ---
 

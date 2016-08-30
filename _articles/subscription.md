@@ -36,4 +36,4 @@ If you're upgrading more than 10 accounts, please [get in touch]({{ site.feedbac
 
 #### Are there other discounts available?
 
-By inviting your friends to use Dynalist, you can get Dynalist credit and use it for up to 50% of the subscription price. Learn more about our referral progoram [here](../referral).
+By inviting your friends to use Dynalist, you can get Dynalist credit and use it for up to 50% of the subscription price. Learn more about our referral program [here](../referral).
