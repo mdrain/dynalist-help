@@ -8,13 +8,9 @@ You can use Markdown to format text in Dynalist. Markdown is rendered whenever y
 
 Dynalist's Markdown syntax is identical to Markdown except that `*italic*` and `_italic_` doesn't work. Instead, `**bold**` and `__italic__` is used. The intention is to not surprise people who don't use Markdown, as it's common to have `*` or `_` surround text.
 
-#### Keyboard shortcuts
+#### Bulk formatting
 
-Some syntaxes have associated keyboard shortcuts. If you have selected text, using the shortcut will add or remove Markdown syntax around the text, depending on whether it's already surrounded by that syntax. If you're not selecting any text, using the shortcut will insert one side of the Markdown syntax for you (e.g. `**` for bold). You can use the shortcut again after you've finished writing what's inside the syntax.
-
-We know it takes some practice to remember these syntaxes, that's why we built a formatting cheatsheet right into the Dynalist web app. Press `Ctrl+?` and you will see it pop up.
-
-For a list of formatting shortcuts, see [the keyboard shortcuts section](../keyboard-shortcuts/#formatting).
+Most of the shortcuts work with multiple items. Simply drag to select the items you want and use the menu or press the shortcut.
 
 #### Bold
 
@@ -63,3 +59,11 @@ You can emphasize an item by making it a heading. In the item menu, click on "H1
 To clear the current heading, click on its current heading option, which is marked by blue (e.g. to clear a level 2 heading, click on the "H2" again in the item menu).
 
 The shortcut to set heading 1/2/3 is `Ctrl+Alt+1/2/3`. The shortcut to clear the current heading formatting is `Ctrl+Alt+0`.
+
+#### Keyboard shortcuts
+
+Some syntaxes have associated keyboard shortcuts. If you have selected text, using the shortcut will add or remove Markdown syntax around the text, depending on whether it's already surrounded by that syntax. If you're not selecting any text, using the shortcut will insert one side of the Markdown syntax for you (e.g. `**` for bold). You can use the shortcut again after you've finished writing what's inside the syntax.
+
+We know it takes some practice to remember these syntaxes, that's why we built a formatting cheatsheet right into the Dynalist web app. Press `Ctrl+?` and you will see it pop up.
+
+For a list of formatting shortcuts, see [the keyboard shortcuts section](../keyboard-shortcuts/#formatting).
