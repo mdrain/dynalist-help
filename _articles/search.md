@@ -4,14 +4,6 @@ title: Search
 permalink: /search/
 ---
 
-#### Tagging
-
-To categorize your items, use tags like `#work` or `@dave`. Clicking on a tag will show everything with the same tag.
-
-When typing tags, an suggestion popup will appear to help you write tags faster. These suggestions are generated on a per document basis.
-
-> Note: there has to be a space before the `#` or `@`, unless if it's the first thing in the item.
-
 #### Search within document or list
 
 Above the document title on the right side, there's a 🔍 icon. Clicking on it will activate the search bar. Typing anything in the search bar will filter results in real time. The shortcut to activate the search bar is `Ctrl+F`.
