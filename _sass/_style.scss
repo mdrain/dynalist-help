@@ -252,6 +252,7 @@ article {
   padding: 20px;
   margin: 0 10px;
   font-size: 16px;
+  position: relative;
 }
 
 @media (max-width: 480px) {
@@ -562,4 +563,13 @@ code.output {
 
 .docs-nav-mobile {
   text-align: center;
+}
+
+.gh-improve-link {
+  opacity: 0.5;
+  font-size: 15px;
+  position: absolute;
+  right: 50px;
+  top: 10px;
+  text-decoration: none;
 }
