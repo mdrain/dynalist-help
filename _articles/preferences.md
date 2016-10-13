@@ -12,7 +12,7 @@ There are two main types of preference: appearance and input.
 
 #### Theme
 
-Dynalist has two themes right now: default and dark. If your room is dark, using dark theme is easier on your eyes.
+Dynalist has three themes right now: default, dark, and sepia. If your room is dark, using dark theme is easier on your eyes. If you read a lot on Dynalist, the sepia theme might be better for your eyes than the default theme.
 
 This setting defaults to Default (yeah right).
 
