@@ -28,7 +28,8 @@
 }
 
 body {
-  font: normal 18px 'Avenir Next', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  font-family: georgia, serif;
   color: #222;
   -webkit-font-feature-settings: "kern" 1;
   -moz-font-feature-settings: "kern" 1;
@@ -66,7 +67,9 @@ footer {
 header {
 
   h1,
-  nav { display: inline-block; }
+  nav {
+    display: inline-block;
+  }
 
 }
 
@@ -78,7 +81,9 @@ nav {
     white-space: nowrap;
   }
 
-  li { display: inline-block; }
+  li {
+    display: inline-block;
+  }
 }
 
 .logo {
@@ -179,6 +184,7 @@ nav {
   font-size: 0.8em;
   @include transition(opacity 0.2s ease-in-out 0.1s);
 }
+
 h2:hover .header-link,
 h3:hover .header-link,
 h4:hover .header-link,
@@ -192,10 +198,15 @@ h6:hover .header-link {
     text-align: right;
   }
 }
+
 @media (max-width: 830px) {
   .main-nav {
-    .show-on-mobiles { display: inline; }
-    .hide-on-mobiles { display: none; }
+    .show-on-mobiles {
+      display: inline;
+    }
+    .hide-on-mobiles {
+      display: none;
+    }
   }
 }
 
@@ -208,7 +219,9 @@ footer {
 
   .align-right {
 
-    p { display: inline-block; }
+    p {
+      display: inline-block;
+    }
   }
 
   img {
@@ -224,8 +237,12 @@ footer {
 
 @media (max-width: 568px) {
   footer {
-    .one-third p { margin-bottom: 0; }
-    .two-thirds p { margin-top: -20px; }
+    .one-third p {
+      margin-bottom: 0;
+    }
+    .two-thirds p {
+      margin-top: -20px;
+    }
   }
 }
 
@@ -238,11 +255,15 @@ article {
 }
 
 @media (max-width: 480px) {
-  article ul { padding-left: 20px; }
+  article ul {
+    padding-left: 20px;
+  }
 }
 
 @media (max-width: 568px) {
-  article { margin: 0; }
+  article {
+    margin: 0;
+  }
 }
 
 @media (min-width: 768px) {
@@ -269,7 +290,9 @@ aside {
     margin: 0 0 1.2em 0;
     padding-left: 0;
 
-    &:first-child { margin-top: 0; }
+    &:first-child {
+      margin-top: 0;
+    }
   }
 
   li {
@@ -300,12 +323,14 @@ code {
 }
 
 @media (min-width: 768px) {
-  pre, code { font-size: 16px; }
+  pre, code {
+    font-size: 16px;
+  }
 }
 
 .note code {
   background-color: #333;
-  background-color: rgba(0,0,0,0.2);
+  background-color: rgba(0, 0, 0, 0.2);
   margin-left: 2.5px;
   margin-right: 2.5px;
   font-size: 0.8em;
@@ -320,7 +345,10 @@ code {
 
 /* HTML Elements */
 
-h1, h2, h3, h4, h5, h6 { margin: 0; }
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  font-family: 'Avenir Next', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
 
 h1 {
   font-size: 1.3em;
@@ -339,28 +367,52 @@ a {
   text-decoration: none;
   @include transition(all .25s);
 
-  &:hover { color: #c7254e; }
+  &:hover {
+    color: #c7254e;
+  }
 }
 
-strong { font-weight: 700; }
+strong {
+  font-weight: 700;
+}
 
-.left { float: left; }
-.right { float: right; }
-.align-right { text-align: right; }
-.align-left { text-align: left; }
-.align-center { text-align: center; }
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.align-right {
+  text-align: right;
+}
+
+.align-left {
+  text-align: left;
+}
+
+.align-center {
+  text-align: center;
+}
 
 /* Article HTML */
 
 article {
 
-  h2, h3, h4, h5, h6 { margin: 1.6em 0 -0.5em 0; }
+  h2, h3, h4, h5, h6 {
+    margin: 1.6em 0 -0.5em 0;
+  }
 
   ul li {
 
-    p { margin: 0; }
+    p {
+      margin: 0;
+    }
 
-    blockquote { margin: 10px 0; }
+    blockquote {
+      margin: 10px 0;
+    }
   }
 
   ul li,
@@ -370,7 +422,7 @@ article {
 
   a {
     text-decoration: underline;
-    
+
     &:hover {
       color: #c7254e;
     }
@@ -398,7 +450,6 @@ blockquote {
   border-bottom: 1px solid #ccc;
 }
 
-
 /* Tables */
 
 table {
@@ -425,7 +476,9 @@ tr + tr {
   border-top: 1px solid #ccc;
 }
 
-td p { margin: 0; }
+td p {
+  margin: 0;
+}
 
 th {
   font-weight: normal;
@@ -465,7 +518,6 @@ code.output {
   }
 }
 
-
 .show-on-mobiles {
   display: none;
 }
@@ -493,7 +545,6 @@ code.output {
   width: 100%;
   height: 100%;
 }
-
 
 /* Helper class taken from Bootstrap.
    Hides an element to all devices except screen readers.
