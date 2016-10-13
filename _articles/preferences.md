@@ -16,34 +16,6 @@ Dynalist has two themes right now: default and dark. If your room is dark, using
 
 This setting defaults to Default (yeah right).
 
-#### Font size
-
-Choose from Small, Medium, and Large. If it's still readable to you, you can set it to smaller to display more text on the same screen space.
-
-This setting defaults to Medium.
-
-#### Font
-
-There are 8 built-in fonts in Dynalist right now. For serif font (think Times New Roman), go for Lora. For a monospace font for code, choose Consolas.
-
-This setting defaults to Whitney.
-
-#### Eastern-asian font
-
-If you write in Chinese, Japanese, or Korean, you can make use of this option to make your characters look better. This font will only be used on non-English text, so don't worry about English looking ugly in the eastern-asian font.
-
-There are two options for each language, with one being serif and the other being sans serif.
-
-This setting defaults to Microsoft Yehei.
-
-#### Font for dyslexia
-
-If you have dyslexia, try out this option by choosing Open Dyslexic. It's designed to make reading easier for people with dyslexia.
-
-If you like how it looks, you can [download this font for free](http://opendyslexic.org/).
-
-This setting defaults to None.
-
 #### List density
 
 You can control how much margin you'd like between two items. Compact is the tightest setting, and Comfortable is the loosest setting.
@@ -73,6 +45,42 @@ This setting is turned off by default.
 When the document is center aligned, there are significant margins on the left and right side of the document. If you want to fit more text on the same screen space, you can turn it off. The possible drawback is that longer lines are usually harder to read.
 
 This setting is turned on by default.
+
+#### Display images inline
+
+Turn on this setting if you want image markdown to show up as an inline image rather than a previewable link.
+
+The setting is turned off by default.
+
+## Font options
+
+#### Font size
+
+Choose from Small, Medium, and Large. If it's still readable to you, you can set it to smaller to display more text on the same screen space.
+
+This setting defaults to Medium.
+
+#### Font
+
+There are 8 built-in fonts in Dynalist right now. For serif font (think Times New Roman), go for Lora. For a monospace font for code, choose Consolas.
+
+This setting defaults to Whitney.
+
+#### Eastern-asian font
+
+If you write in Chinese, Japanese, or Korean, you can make use of this option to make your characters look better. This font will only be used on non-English text, so don't worry about English looking ugly in the eastern-asian font.
+
+There are two options for each language, with one being serif and the other being sans serif.
+
+This setting defaults to Microsoft Yehei.
+
+#### Font for dyslexia
+
+If you have dyslexia, try out this option by choosing Open Dyslexic. It's designed to make reading easier for people with dyslexia.
+
+If you like how it looks, you can [download this font for free](http://opendyslexic.org/).
+
+This setting defaults to None.
 
 ## Input
 
