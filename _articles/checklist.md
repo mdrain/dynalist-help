@@ -1,16 +1,8 @@
 ---
 layout: article
-title: Types of lists
-permalink: /list-types/
+title: Checklist
+permalink: /checklist/
 ---
-
-There are three types of lists in Dynalist:
-
-1. Normal lists;
-2. Checklists;
-3. Numbered lists.
-
-## Checklists
 
 Checklist items have a checkbox in front of them, making it easy to check them off. It also makes it more obvious that an item is an actionable task.
 
@@ -25,14 +17,3 @@ To convert a list into a checklist, open the item menu and select "Make checklis
 For items with checkboxes, simply click on the checkbox to check them off. The keyboard shortcut is `Ctrl+Enter` while focusing on the item. You can also check off items by choosing the "Check off" option in the item menu.
 
 Unchecking a checked items works the same way.
-
-
-## Numbered lists
-
-Numbered list items have a number before it rather than a bullet point. Like in other word processors, the numbers are dynamically adjusted as you add and remove items.
-
-#### Creating numbered lists
-
-To convert a list into a numbered list, open the item menu and select "Make numbered list". You can also press `Ctrl+Alt+N` when focusing on an item.
-
-> Note: making an item a numbered list does not append a number before itself; the effect is applied to its children.

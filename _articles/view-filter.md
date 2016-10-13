@@ -1,6 +1,6 @@
 ---
 layout: article
-title: View filters
+title: Toggle checked and note
 permalink: /view-filter/
 ---
 

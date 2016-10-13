@@ -42,11 +42,11 @@ To export a list, open the item menu and choose "Export...". For more informatio
 
 #### Converting lists to checklists
 
-Please see "[Creating checklists](../list-types/#creating-checklists)".
+Please see "[Creating checklists](../checklist/#creating-checklists)".
 
 #### Converting lists to numbered lists
 
-Please see "[Creating numbered lists](../list-types/#creating-numbered-lists)".
+Please see "[Creating numbered lists](../numbered-list/#creating-numbered-lists)".
 
 #### Converting lists to standalone documents
 
