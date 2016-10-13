@@ -22,7 +22,7 @@ You can also [change the permission for your uploaded files](../privacy/#how-can
 
 Pro users can link their Dropbox and Google Drive account, and every day a full backup will be sent to it. To link your Dropbox or Google Drive, open Settings and go to the "Dynalist Pro" tab.
 
-#### Shortcut customization
+#### Custom shortcuts
 
 Pro users can customize keyboard shortcuts to better suit their workflow. See [here](../keyboard-shortcuts/#shortcut-customization) for how.
 
