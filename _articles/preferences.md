@@ -8,7 +8,7 @@ You can see and change your preferences in the "Preferences" tab in Settings. To
 
 There are two main types of preference: appearance and input.
 
-## Appearance preferences
+## Appearance
 
 #### Theme
 
