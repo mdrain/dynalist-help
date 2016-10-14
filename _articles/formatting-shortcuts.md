@@ -1,8 +1,8 @@
-'---
- layout: article
- title: Formatting
- permalink: /formatting-shortcuts/
- ---
+---
+layout: article
+title: Formatting
+permalink: /formatting-shortcuts/
+---
 
 | Action             | Shortcut         |
 |--------------------|------------------|

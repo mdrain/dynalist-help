@@ -96,7 +96,7 @@ Because some languages have alternative keyboard layouts, it's impossible for pe
 
 Right now there are four keyboard layout settings (in no particular order): English (United States), French (France), Polish (Poland), and German (Germany). If you find things not working with your keyboard layout, [let us know]({{ site.feedback_url }})!
 
-To see what shortcuts are affected by choosing each layout, see [the keyboard shortcuts section](../keyboard-shortcuts/#for-non-english-keyboard-layouts).
+To see what shortcuts are affected by choosing each layout, see [the keyboard shortcuts section](../locale-shortcuts/).
 
 This setting defaults to English (United States).
 

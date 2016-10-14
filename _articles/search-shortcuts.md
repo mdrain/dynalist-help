@@ -1,8 +1,8 @@
-'---
- layout: article
- title: Search
- permalink: /search-shortcuts/
- ---
+---
+layout: article
+title: Search
+permalink: /search-shortcuts/
+---
 
 | Action                                  | Shortcut     |
 |-----------------------------------------|--------------|

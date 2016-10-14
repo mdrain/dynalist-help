@@ -66,4 +66,4 @@ Some syntaxes have associated keyboard shortcuts. If you have selected text, usi
 
 We know it takes some practice to remember these syntaxes, that's why we built a formatting cheatsheet right into the Dynalist web app. Press `Ctrl+?` and you will see it pop up.
 
-For a list of formatting shortcuts, see [the keyboard shortcuts section](../keyboard-shortcuts/#formatting).
+For a list of formatting shortcuts, see [the keyboard shortcuts section](../formatting-shortcuts/).

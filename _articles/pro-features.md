@@ -24,7 +24,7 @@ Pro users can link their Dropbox and Google Drive account, and every day a full 
 
 #### Custom shortcuts
 
-Pro users can customize keyboard shortcuts to better suit their workflow. See [here](../keyboard-shortcuts/#shortcut-customization) for how.
+Pro users can customize keyboard shortcuts to better suit their workflow. See [here](../custom-shortcuts/) for how.
 
 #### Priority support
 
