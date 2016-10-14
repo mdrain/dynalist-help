@@ -1,20 +1,39 @@
-- title: How-tos
+- title: Basics
   articles:
   - creating-lists
   - working-with-lists
   - checklist
   - numbered-list
-  - formatting
+  - search
   - navigating
   - date
+  - formatting
+  - mobile
+
+- title: Getting organized
+  articles:
+  - tag
   - files
   - bookmarks
-  - tag
-  - search
-  - sharing
-  - mobile
-  - keyboard-shortcuts
- 
+
+- title: Sharing & collaboration
+  articles:
+  - general-sharing
+  - public-sharing
+  - private-sharing
+
+- title: Keyboard shortcuts
+  articles:
+  - interface-shortcuts
+  - editing-shortcuts
+  - modifying-lists-shortcuts
+  - selecting-shortcuts
+  - navigating-moving-shortcuts
+  - formatting-shortcuts
+  - search-shortcuts
+  - locale-shortcuts
+  - custom-shortcuts
+
 - title: Your Data
   articles:
   - privacy
