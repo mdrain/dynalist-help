@@ -16,7 +16,7 @@ Technically we are able to, but no one at Dynalist will ever look at the content
 
 For more information, you can read [our privacy policy](https://dynalist.io/privacy).
 
-#### How can see the files I uploaded?
+#### Who can see the files I uploaded?
 
 By default, only you have access to them. Other people cannot see the files you upload even if they somehow obtain the link to it.
 
