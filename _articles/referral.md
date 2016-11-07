@@ -10,11 +10,13 @@ Good things happen when you share good stuff. In addition to feeling good and be
 
 Each user has an invite link. To get yours, click on the hamburger menu in the top right corner and choose "Tell a friend". You will find a link that looks like `https://dynalist.io/invite/dIgItS`. This your invite link. You can also share the link on social media — we've prepared the Twitter and Facebook share buttons for you.
 
+When someone signs up with your link, he or she gets a month of Dynalist Pro for free.
+
 #### Dynalist Pro credit
 
 When a friend signs up with your invite link, you get $5 in Dynalist Pro credit.
 
-When you upgrade to Dynalist, the credit will be automatically applied. Up to half of the price can be waived each time. For example, let's say you referred 10 friends and get $10 dollars in credit. Each month of Dynalist Pro costs $4.99, so $2.5 can be waived each time. This means that you will pay $10 out of pocket for 4 months of Dynalist Pro instead of $20.
+When you upgrade to Dynalist, the credit will be automatically applied. Up to half of the price can be waived each time. For example, let's say you referred 10 friends and get $10 in credit. Each month of Dynalist Pro costs $4.99, so $2.5 can be waived each time. This means that you will pay $10 out of pocket for 4 months of Dynalist Pro instead of $20.
 
 #### Free Pro from friend upgrading
 
