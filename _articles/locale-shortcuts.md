@@ -4,6 +4,10 @@ title: Other keyboard layouts
 permalink: /locale-shortcuts/
 ---
 
+If you're using a keyboard layout that's not English, default shortcuts may interfere with your normal usage such like typing a certain character in your language. For this consideration, we've changed some shortcuts for the following keyboard layouts.
+
+You'll need to change your "Keyboard layout" setting in Settings → Preferences → Input for this to work.
+
 #### French
 
 Clear heading:  `Ctrl+Alt+0` → `Shift+Alt+0`
