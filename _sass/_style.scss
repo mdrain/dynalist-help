@@ -319,7 +319,8 @@ aside {
     }
 
     &.current {
-      color: darken(#c7254e, 8%);
+      color: desaturate(#008aff, 20%);
+      font-weight: bold;
     }
   }
 }
@@ -383,7 +384,7 @@ a {
   @include transition(all .25s);
 
   &:hover {
-    color: #c7254e;
+    color: desaturate(#008aff, 20%);
   }
 }
 
@@ -439,7 +440,7 @@ article {
     text-decoration: underline;
 
     &:hover {
-      color: #c7254e;
+      color: desaturate(#008aff, 20%);
     }
   }
 
