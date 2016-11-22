@@ -1,12 +1,5 @@
 @font-face {
   font-family: 'Avenir Next';
-  src: url('../fonts/avenir-next-pro-medium.otf') format('opentype');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Avenir Next';
   src: url('../fonts/avenir-next-pro-demi.otf') format('opentype');
   font-weight: bold;
   font-style: normal;
@@ -19,6 +12,27 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: 'Whitney';
+  src: url('../fonts/Whitney-Book-Pro.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Whitney';
+  src: url('../fonts/Whitney-Bold-Pro.otf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Whitney';
+  src: url('../fonts/Whitney-BookItalic-Pro.otf') format('opentype');
+  font-weight: normal;
+  font-style: italic;
+}
+
 /* Base */
 
 * {
@@ -29,7 +43,7 @@
 
 body {
   font-size: 18px;
-  font-family: georgia, serif;
+  font-family: 'Whitney', sans-serif;
   color: #222;
   -webkit-font-feature-settings: "kern" 1;
   -moz-font-feature-settings: "kern" 1;
